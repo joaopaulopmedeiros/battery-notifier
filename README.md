@@ -14,3 +14,6 @@ pip install win10toast
 ``` 
 python main.py
 ```
+
+## Expected Result
+<img src=".github/result.png">
