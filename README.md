@@ -1,7 +1,7 @@
-# Low Battery Notifier
+# Battery Level Notifier
 
 ## Description
-A simple python script for notification of low battery
+A simple python script for notification of battery level
 
 ## How to install dependencies
 ```
